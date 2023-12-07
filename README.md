@@ -2,6 +2,8 @@
   <img src="./example/IAM.png">
 </p>
 
+## dp_final
+
 # Inpaint Anything: Segment Anything Meets Image Inpainting
 Inpaint Anything can inpaint anything in **images**, **videos** and **3D scenes**!
 - Authors: Tao Yu, Runseng Feng, Ruoyu Feng, Jinming Liu, Xin Jin, Wenjun Zeng and Zhibo Chen.
